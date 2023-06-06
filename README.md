@@ -6,6 +6,7 @@ which revolves around comparing various energy sources and industries, emphasizi
 This project entails the creation of visualizations using preprocessed data in Python, employing essential tools such as (Jupyter, Matplotlib, seaborn,pandas)
 
 In this project, there is usage of the following:
+
 1-File processing 
 2-Test
 3- Requests, Modules
