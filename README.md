@@ -15,3 +15,5 @@ In this project, there is a usage of the following:
 •	Test
 
 •	Requests, Modules
+
+• handling exception error
